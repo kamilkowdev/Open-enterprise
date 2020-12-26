@@ -1,0 +1,14 @@
+/* font-family: 'Anton', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Kaushan Script', cursive; */
+
+:root {
+    /* Landing Page */
+    --clr-logo: #303031;
+    --clr-menu: #303031;
+    --clr-menu-active: #71A894;
+    --clr-h1: #303031;
+    --clr-p: #66645E;
+    --clr-p-btn: #fff;
+    --clr-btn: #71A894;
+}
